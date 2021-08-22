@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
+      <br/>
+      <span class="top-banner-font-1">1 suite, 2 failed tests</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-aequilibriumTest" class="navigator-link">
+              <span class="suite-name border-failed">aequilibriumTest</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-aequilibriumTest" class="navigator-link ">
+                    <span>C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-aequilibriumTest" class="navigator-link ">
+                    <span class="test-stats">2 tests</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-aequilibriumTest" class="navigator-link ">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-aequilibriumTest" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-aequilibriumTest" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-aequilibriumTest" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-aequilibriumTest" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">10 methods, 2 failed,   8 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-aequilibriumTest" class="hide-methods failed suite-aequilibriumTest"> (hide)</a> <!-- hide-methods failed suite-aequilibriumTest -->
+                      <a href="#" panel-name="suite-aequilibriumTest" class="show-methods failed suite-aequilibriumTest"> (show)</a> <!-- show-methods failed suite-aequilibriumTest -->
+                    </span>
+                    <div class="method-list-content failed suite-aequilibriumTest">
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-aequilibriumTest" title="logintest.Loginfeature" class="method navigator-link" hash-for-method="loginPerformanceGlitch">loginPerformanceGlitch</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-aequilibriumTest" title="logintest.Loginfeature" class="method navigator-link" hash-for-method="loginPerformanceGlitch">loginPerformanceGlitch</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-aequilibriumTest -->
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-aequilibriumTest" class="hide-methods passed suite-aequilibriumTest"> (hide)</a> <!-- hide-methods passed suite-aequilibriumTest -->
+                      <a href="#" panel-name="suite-aequilibriumTest" class="show-methods passed suite-aequilibriumTest"> (show)</a> <!-- show-methods passed suite-aequilibriumTest -->
+                    </span>
+                    <div class="method-list-content passed suite-aequilibriumTest">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-aequilibriumTest" title="logintest.Loginfeature" class="method navigator-link" hash-for-method="LoginIncorrectPassword">LoginIncorrectPassword</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-aequilibriumTest" title="logintest.Loginfeature" class="method navigator-link" hash-for-method="LoginIncorrectPassword">LoginIncorrectPassword</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-aequilibriumTest" title="logintest.Loginfeature" class="method navigator-link" hash-for-method="LoginMandatoryField">LoginMandatoryField</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-aequilibriumTest" title="logintest.Loginfeature" class="method navigator-link" hash-for-method="LoginMandatoryField">LoginMandatoryField</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-aequilibriumTest" title="logintest.Loginfeature" class="method navigator-link" hash-for-method="LoginSuccessStdUser">LoginSuccessStdUser</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-aequilibriumTest" title="logintest.Loginfeature" class="method navigator-link" hash-for-method="LoginSuccessStdUser">LoginSuccessStdUser</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-aequilibriumTest" title="logintest.Loginfeature" class="method navigator-link" hash-for-method="loginLockedOutUser">loginLockedOutUser</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-aequilibriumTest" title="logintest.Loginfeature" class="method navigator-link" hash-for-method="loginLockedOutUser">loginLockedOutUser</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-aequilibriumTest -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-aequilibriumTest" class="panel aequilibriumTest">
+          <div class="suite-aequilibriumTest-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">logintest.Loginfeature</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginPerformanceGlitch">
+                  </a> <!-- loginPerformanceGlitch -->
+                  <span class="method-name">loginPerformanceGlitch</span>
+                  <div class="stack-trace">java.lang.AssertionError: Performance Issue - Page Load Time should be less than 50 milliseconds expected [true] but found [false]
+	at logintest.Loginfeature.loginPerformanceGlitch(Loginfeature.java:106)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+... Removed 21 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginPerformanceGlitch">
+                  </a> <!-- loginPerformanceGlitch -->
+                  <span class="method-name">loginPerformanceGlitch</span>
+                  <div class="stack-trace">java.lang.AssertionError: Performance Issue - Page Load Time should be less than 50 milliseconds expected [true] but found [false]
+	at logintest.Loginfeature.loginPerformanceGlitch(Loginfeature.java:106)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+... Removed 21 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-aequilibriumTest-class-failed -->
+          <div class="suite-aequilibriumTest-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">logintest.Loginfeature</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginIncorrectPassword">
+                  </a> <!-- LoginIncorrectPassword -->
+                  <span class="method-name">LoginIncorrectPassword</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginIncorrectPassword">
+                  </a> <!-- LoginIncorrectPassword -->
+                  <span class="method-name">LoginIncorrectPassword</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginMandatoryField">
+                  </a> <!-- LoginMandatoryField -->
+                  <span class="method-name">LoginMandatoryField</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginMandatoryField">
+                  </a> <!-- LoginMandatoryField -->
+                  <span class="method-name">LoginMandatoryField</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginSuccessStdUser">
+                  </a> <!-- LoginSuccessStdUser -->
+                  <span class="method-name">LoginSuccessStdUser</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginSuccessStdUser">
+                  </a> <!-- LoginSuccessStdUser -->
+                  <span class="method-name">LoginSuccessStdUser</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginLockedOutUser">
+                  </a> <!-- loginLockedOutUser -->
+                  <span class="method-name">loginLockedOutUser</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginLockedOutUser">
+                  </a> <!-- loginLockedOutUser -->
+                  <span class="method-name">loginLockedOutUser</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-aequilibriumTest-class-passed -->
+        </div> <!-- panel aequilibriumTest -->
+        <div panel-name="test-xml-aequilibriumTest" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite thread-count=&quot;1&quot; parallel=&quot;tests&quot; name=&quot;aequilibriumTest&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
+  &lt;test thread-count=&quot;1&quot; parallel=&quot;tests&quot; name=&quot;ChromeTest&quot;&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;Chrome&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;logintest.Loginfeature&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;LoginSuccessStdUser&quot;/&gt;
+          &lt;include name=&quot;loginLockedOutUser&quot;/&gt;
+          &lt;include name=&quot;loginPerformanceGlitch&quot;/&gt;
+          &lt;include name=&quot;LoginIncorrectPassword&quot;/&gt;
+          &lt;include name=&quot;LoginMandatoryField&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- logintest.Loginfeature --&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- ChromeTest --&gt;
+  &lt;test thread-count=&quot;1&quot; parallel=&quot;tests&quot; name=&quot;FirefoxTest&quot;&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;Firefox&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;logintest.Loginfeature&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;LoginSuccessStdUser&quot;/&gt;
+          &lt;include name=&quot;loginLockedOutUser&quot;/&gt;
+          &lt;include name=&quot;loginPerformanceGlitch&quot;/&gt;
+          &lt;include name=&quot;LoginIncorrectPassword&quot;/&gt;
+          &lt;include name=&quot;LoginMandatoryField&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- logintest.Loginfeature --&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- FirefoxTest --&gt;
+&lt;/suite&gt; &lt;!-- aequilibriumTest --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-aequilibriumTest" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for aequilibriumTest</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">ChromeTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">FirefoxTest (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-aequilibriumTest" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for aequilibriumTest</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-aequilibriumTest" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for aequilibriumTest</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_aequilibriumTest');
+function tableData_aequilibriumTest() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(10);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'loginPerformanceGlitch')
+data.setCell(0, 2, 'logintest.Loginfeature')
+data.setCell(0, 3, 6544);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'loginPerformanceGlitch')
+data.setCell(1, 2, 'logintest.Loginfeature')
+data.setCell(1, 3, 6151);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'LoginSuccessStdUser')
+data.setCell(2, 2, 'logintest.Loginfeature')
+data.setCell(2, 3, 2375);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'LoginSuccessStdUser')
+data.setCell(3, 2, 'logintest.Loginfeature')
+data.setCell(3, 3, 1730);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'LoginIncorrectPassword')
+data.setCell(4, 2, 'logintest.Loginfeature')
+data.setCell(4, 3, 1728);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'LoginMandatoryField')
+data.setCell(5, 2, 'logintest.Loginfeature')
+data.setCell(5, 3, 1259);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'LoginIncorrectPassword')
+data.setCell(6, 2, 'logintest.Loginfeature')
+data.setCell(6, 3, 1178);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'loginLockedOutUser')
+data.setCell(7, 2, 'logintest.Loginfeature')
+data.setCell(7, 3, 1176);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'LoginMandatoryField')
+data.setCell(8, 2, 'logintest.Loginfeature')
+data.setCell(8, 3, 1157);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'loginLockedOutUser')
+data.setCell(9, 2, 'logintest.Loginfeature')
+data.setCell(9, 3, 1092);
+window.suiteTableData['aequilibriumTest']= { tableData: data, tableDiv: 'times-div-aequilibriumTest'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 49 seconds</span>
+              <div id="times-div-aequilibriumTest">
+              </div> <!-- times-div-aequilibriumTest -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-aequilibriumTest" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for aequilibriumTest</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">LoginIncorrectPassword</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginIncorrectPassword_20210822011208.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginIncorrectPassword_20210822011208.png' height='100' width='100'/> </a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">LoginMandatoryField</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginMandatoryField_20210822011211.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginMandatoryField_20210822011211.png' height='100' width='100'/> </a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">LoginSuccessStdUser</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginSuccess_20210822011148.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginSuccess_20210822011148.png' height='100' width='100'/> </a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">loginLockedOutUser</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\loginLockedOutUser_20210822011155.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\loginLockedOutUser_20210822011155.png' height='100' width='100'/> </a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">loginPerformanceGlitch</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\failure_20210822011204.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\failure_20210822011204.png' height='100' width='100'/> </a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">LoginMandatoryField</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginMandatoryField_20210822011259.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginMandatoryField_20210822011259.png' height='100' width='100'/> </a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">LoginIncorrectPassword</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginIncorrectPassword_20210822011251.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginIncorrectPassword_20210822011251.png' height='100' width='100'/> </a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">LoginSuccessStdUser</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginSuccess_20210822011218.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginSuccess_20210822011218.png' height='100' width='100'/> </a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">loginLockedOutUser</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\loginLockedOutUser_20210822011227.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\loginLockedOutUser_20210822011227.png' height='100' width='100'/> </a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">loginPerformanceGlitch</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\failure_20210822011241.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\failure_20210822011241.png' height='100' width='100'/> </a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-aequilibriumTest" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">2 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">logintest.Loginfeature</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">TestToFail</span>
+                <br/>
+                <span class="ignored-method-name">TestToFail</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-aequilibriumTest" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">logintest.Loginfeature</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setup(Chrome)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginSuccessStdUser</span>
+                <span class="method-start">3583 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">5964 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup(Chrome)</span>
+                <span class="method-start">10216 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">loginLockedOutUser</span>
+                <span class="method-start">11914 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">13093 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup(Chrome)</span>
+                <span class="method-start">13224 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">loginPerformanceGlitch</span>
+                <span class="method-start">15255 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">22161 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup(Chrome)</span>
+                <span class="method-start">22297 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginIncorrectPassword</span>
+                <span class="method-start">24243 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">25422 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup(Chrome)</span>
+                <span class="method-start">25566 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginMandatoryField</span>
+                <span class="method-start">27339 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">28599 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup(Firefox)</span>
+                <span class="method-start">28779 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginSuccessStdUser</span>
+                <span class="method-start">34760 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">36491 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup(Firefox)</span>
+                <span class="method-start">37763 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">loginLockedOutUser</span>
+                <span class="method-start">44018 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">45111 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup(Firefox)</span>
+                <span class="method-start">46522 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">loginPerformanceGlitch</span>
+                <span class="method-start">52714 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">59343 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup(Firefox)</span>
+                <span class="method-start">60762 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginIncorrectPassword</span>
+                <span class="method-start">67060 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">68789 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup(Firefox)</span>
+                <span class="method-start">70333 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginMandatoryField</span>
+                <span class="method-start">75725 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">76883 ms</span>
+              </div> <!-- configuration-method after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+<script type="text/javascript" src="testng-reports2.js"></script>
+</html>

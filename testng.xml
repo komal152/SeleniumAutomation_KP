@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="aequilibriumTest" thread-count="1" parallel="tests">
+	<test name="ChromeTest">
+		<parameter name="browser" value="Chrome" />
+		<classes>
+			<class name="logintest.Loginfeature">
+			<methods>
+	            <!-- Test Case # 1:- User Logged in Successfully -->
+	            <include name="LoginSuccessStdUser"></include>
+	            <!-- Test Case # 2:- Locked out user verification - error message verification -->
+	            <include name="loginLockedOutUser"></include>
+	            <!-- Test Case # 3:- PageLoad Performance Verification : Test/Assertion will fail and throw an exception -->
+	            <include name="loginPerformanceGlitch"></include>
+	            <!-- Test Case # 4:- Incorrect Password - Error Message verification -->
+	            <include name="LoginIncorrectPassword"></include>
+	            <!-- Test Case # 5:- Mandatory field verification -->
+	            <include name="LoginMandatoryField"></include>
+	            <!-- <exclude name="TestToFail"></exclude> -->
+            </methods>
+			</class>
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="FirefoxTest">
+		<parameter name="browser" value="Firefox" />
+		<classes>
+			<class name="logintest.Loginfeature">
+			<methods>
+	            <!-- Test Case # 1:- User Logged in Successfully -->
+	            <include name="LoginSuccessStdUser"></include>
+	            <!-- Test Case # 2:- Locked out user verification - error message verification -->
+	            <include name="loginLockedOutUser"></include>
+	            <!-- Test Case # 3:- PageLoad Performance Verification : Test/Assertion will fail and throw an exception-->
+	            <include name="loginPerformanceGlitch"></include>
+	            <!-- Test Case # 4:- Incorrect Password - Error Message verification -->
+	            <include name="LoginIncorrectPassword"></include>
+	            <!-- Test Case # 5:- Mandatory field verification -->
+	            <include name="LoginMandatoryField"></include>
+	            <!-- <exclude name="TestToFail"></exclude> -->
+            </methods>
+			</class>
+		</classes>
+	</test>
+</suite> <!-- Suite -->
