@@ -1,0 +1,27 @@
+--------Test Cases Automated
+TestCase #1:-
+Verify that system allows user to login with valid user name and password - User logged in successfully.
+TestCase #2:-
+Verify that system displays an error message for Locked out user - Verify text of error message "Sorry, this user has been locked out.".
+TestCase #3:-
+Verify the performance of user login for "performance_glitch_user" - Verify the page load time should be less than 50 milliseconds.
+TestCase #4:-
+Verify that system does not allows to logged in for incorrect password - Verify the text of error message "Username and password do not match any user in this service".
+TestCase #5:-
+Mandatory field verification - Verify that mandatory field error message will raise when missing mandatory field.
+--------Other Test Cases
+TestCase #6:-
+Mandatory field verification - Verify missing user name - verify text of error message "Username is required"
+TestCase #7:- 
+Verify the validation for Incorrect user name - Verify the text of error message " Username and password do not match any user in this service"
+TestCase #8:-
+Verify the successful login landing page - Verify that system opens Products page once user logged in
+TestCase #9:-
+Login Page title verification - Verify that Login page title should be "SwagLabs".
+TestCase #10:-
+User Access/Seesion validation: Try to access "https://www.saucedemo.com/inventory.html" url without user login
+Verify error message "You can only access '/inventory.html' when you are logged in."
+TestCase #11:-
+Verify Navigation forward and page reload on "https://www.saucedemo.com/" page.
+Reload will simply reload the page
+Forward will restrict access to logged in user only.

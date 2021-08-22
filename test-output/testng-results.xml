@@ -2,42 +2,42 @@
 <testng-results ignored="2" total="12" passed="8" failed="2" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginSuccess_20210822011148.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginSuccess_20210822011148.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginSuccess_20210822135719.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginSuccess_20210822135719.png' height='100' width='100'/> </a>]]>
     </line>
     <line>
-      <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\loginLockedOutUser_20210822011155.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\loginLockedOutUser_20210822011155.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\loginLockedOutUser_20210822135722.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\loginLockedOutUser_20210822135722.png' height='100' width='100'/> </a>]]>
     </line>
     <line>
-      <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\failure_20210822011204.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\failure_20210822011204.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\failure_20210822135730.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\failure_20210822135730.png' height='100' width='100'/> </a>]]>
     </line>
     <line>
-      <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginIncorrectPassword_20210822011208.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginIncorrectPassword_20210822011208.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginIncorrectPassword_20210822135733.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginIncorrectPassword_20210822135733.png' height='100' width='100'/> </a>]]>
     </line>
     <line>
-      <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginMandatoryField_20210822011211.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginMandatoryField_20210822011211.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginMandatoryField_20210822135736.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginMandatoryField_20210822135736.png' height='100' width='100'/> </a>]]>
     </line>
     <line>
-      <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginSuccess_20210822011218.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginSuccess_20210822011218.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginSuccess_20210822135748.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginSuccess_20210822135748.png' height='100' width='100'/> </a>]]>
     </line>
     <line>
-      <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\loginLockedOutUser_20210822011227.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\loginLockedOutUser_20210822011227.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\loginLockedOutUser_20210822135757.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\loginLockedOutUser_20210822135757.png' height='100' width='100'/> </a>]]>
     </line>
     <line>
-      <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\failure_20210822011241.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\failure_20210822011241.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\failure_20210822135809.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\failure_20210822135809.png' height='100' width='100'/> </a>]]>
     </line>
     <line>
-      <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginIncorrectPassword_20210822011251.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginIncorrectPassword_20210822011251.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginIncorrectPassword_20210822135817.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginIncorrectPassword_20210822135817.png' height='100' width='100'/> </a>]]>
     </line>
     <line>
-      <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginMandatoryField_20210822011259.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginMandatoryField_20210822011259.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginMandatoryField_20210822135825.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginMandatoryField_20210822135825.png' height='100' width='100'/> </a>]]>
     </line>
   </reporter-output>
-  <suite started-at="2021-08-22T01:11:42 PDT" name="aequilibriumTest" finished-at="2021-08-22T01:13:01 PDT" duration-ms="78289">
+  <suite started-at="2021-08-22T13:57:15 PDT" name="aequilibriumTest" finished-at="2021-08-22T13:58:26 PDT" duration-ms="71314">
     <groups>
     </groups>
-    <test started-at="2021-08-22T01:11:42 PDT" name="ChromeTest" finished-at="2021-08-22T01:12:11 PDT" duration-ms="28775">
+    <test started-at="2021-08-22T13:57:15 PDT" name="ChromeTest" finished-at="2021-08-22T13:57:37 PDT" duration-ms="22005">
       <class name="logintest.Loginfeature">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T01:11:42 PDT" name="setup" finished-at="2021-08-22T01:11:46 PDT" duration-ms="3581" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T13:57:15 PDT" name="setup" finished-at="2021-08-22T13:57:18 PDT" duration-ms="2916" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -48,18 +48,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="LoginSuccessStdUser()[pri:0, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T01:11:46 PDT" name="LoginSuccessStdUser" finished-at="2021-08-22T01:11:48 PDT" duration-ms="2375" status="PASS">
+        <test-method signature="LoginSuccessStdUser()[pri:0, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T13:57:18 PDT" name="LoginSuccessStdUser" finished-at="2021-08-22T13:57:19 PDT" duration-ms="1888" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginSuccess_20210822011148.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginSuccess_20210822011148.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginSuccess_20210822135719.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginSuccess_20210822135719.png' height='100' width='100'/> </a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- LoginSuccessStdUser -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T01:11:48 PDT" name="closeBrowser" finished-at="2021-08-22T01:11:53 PDT" duration-ms="4246" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T13:57:19 PDT" name="closeBrowser" finished-at="2021-08-22T13:57:20 PDT" duration-ms="157" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T01:11:53 PDT" name="setup" finished-at="2021-08-22T01:11:54 PDT" duration-ms="1697" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T13:57:20 PDT" name="setup" finished-at="2021-08-22T13:57:21 PDT" duration-ms="1655" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -70,18 +70,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginLockedOutUser()[pri:1, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T01:11:54 PDT" name="loginLockedOutUser" finished-at="2021-08-22T01:11:55 PDT" duration-ms="1176" status="PASS">
+        <test-method signature="loginLockedOutUser()[pri:1, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T13:57:21 PDT" name="loginLockedOutUser" finished-at="2021-08-22T13:57:22 PDT" duration-ms="986" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\loginLockedOutUser_20210822011155.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\loginLockedOutUser_20210822011155.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\loginLockedOutUser_20210822135722.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\loginLockedOutUser_20210822135722.png' height='100' width='100'/> </a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- loginLockedOutUser -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T01:11:55 PDT" name="closeBrowser" finished-at="2021-08-22T01:11:56 PDT" duration-ms="130" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T13:57:22 PDT" name="closeBrowser" finished-at="2021-08-22T13:57:22 PDT" duration-ms="102" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T01:11:56 PDT" name="setup" finished-at="2021-08-22T01:11:58 PDT" duration-ms="2031" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T13:57:22 PDT" name="setup" finished-at="2021-08-22T13:57:24 PDT" duration-ms="1781" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -92,7 +92,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginPerformanceGlitch()[pri:2, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T01:11:58 PDT" name="loginPerformanceGlitch" finished-at="2021-08-22T01:12:04 PDT" duration-ms="6544" status="FAIL">
+        <test-method signature="loginPerformanceGlitch()[pri:2, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T13:57:24 PDT" name="loginPerformanceGlitch" finished-at="2021-08-22T13:57:30 PDT" duration-ms="6388" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[Performance Issue - Page Load Time should be less than 50 milliseconds expected [true] but found [false]]]>
@@ -131,15 +131,15 @@ at java.base/java.lang.Thread.run(Thread.java:831)
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\failure_20210822011204.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\failure_20210822011204.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\failure_20210822135730.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\failure_20210822135730.png' height='100' width='100'/> </a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- loginPerformanceGlitch -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T01:12:04 PDT" name="closeBrowser" finished-at="2021-08-22T01:12:05 PDT" duration-ms="136" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T13:57:31 PDT" name="closeBrowser" finished-at="2021-08-22T13:57:31 PDT" duration-ms="134" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T01:12:05 PDT" name="setup" finished-at="2021-08-22T01:12:07 PDT" duration-ms="1946" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T13:57:31 PDT" name="setup" finished-at="2021-08-22T13:57:32 PDT" duration-ms="1497" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -150,18 +150,18 @@ at java.base/java.lang.Thread.run(Thread.java:831)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="LoginIncorrectPassword()[pri:3, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T01:12:07 PDT" name="LoginIncorrectPassword" finished-at="2021-08-22T01:12:08 PDT" duration-ms="1178" status="PASS">
+        <test-method signature="LoginIncorrectPassword()[pri:3, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T13:57:32 PDT" name="LoginIncorrectPassword" finished-at="2021-08-22T13:57:34 PDT" duration-ms="1082" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginIncorrectPassword_20210822011208.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginIncorrectPassword_20210822011208.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginIncorrectPassword_20210822135733.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginIncorrectPassword_20210822135733.png' height='100' width='100'/> </a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- LoginIncorrectPassword -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T01:12:08 PDT" name="closeBrowser" finished-at="2021-08-22T01:12:08 PDT" duration-ms="143" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T13:57:34 PDT" name="closeBrowser" finished-at="2021-08-22T13:57:34 PDT" duration-ms="110" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T01:12:08 PDT" name="setup" finished-at="2021-08-22T01:12:10 PDT" duration-ms="1773" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T13:57:34 PDT" name="setup" finished-at="2021-08-22T13:57:36 PDT" duration-ms="1868" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -172,22 +172,22 @@ at java.base/java.lang.Thread.run(Thread.java:831)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="LoginMandatoryField()[pri:4, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T01:12:10 PDT" name="LoginMandatoryField" finished-at="2021-08-22T01:12:11 PDT" duration-ms="1259" status="PASS">
+        <test-method signature="LoginMandatoryField()[pri:4, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T13:57:36 PDT" name="LoginMandatoryField" finished-at="2021-08-22T13:57:36 PDT" duration-ms="898" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginMandatoryField_20210822011211.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginMandatoryField_20210822011211.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginMandatoryField_20210822135736.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginMandatoryField_20210822135736.png' height='100' width='100'/> </a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- LoginMandatoryField -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T01:12:11 PDT" name="closeBrowser" finished-at="2021-08-22T01:12:11 PDT" duration-ms="123" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:logintest.Loginfeature@659a969b]" started-at="2021-08-22T13:57:36 PDT" name="closeBrowser" finished-at="2021-08-22T13:57:37 PDT" duration-ms="131" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- logintest.Loginfeature -->
     </test> <!-- ChromeTest -->
-    <test started-at="2021-08-22T01:12:11 PDT" name="FirefoxTest" finished-at="2021-08-22T01:13:01 PDT" duration-ms="49460">
+    <test started-at="2021-08-22T13:57:37 PDT" name="FirefoxTest" finished-at="2021-08-22T13:58:26 PDT" duration-ms="49255">
       <class name="logintest.Loginfeature">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T01:12:11 PDT" name="setup" finished-at="2021-08-22T01:12:17 PDT" duration-ms="5981" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T13:57:37 PDT" name="setup" finished-at="2021-08-22T13:57:47 PDT" duration-ms="10083" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -198,18 +198,18 @@ at java.base/java.lang.Thread.run(Thread.java:831)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="LoginSuccessStdUser()[pri:0, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T01:12:17 PDT" name="LoginSuccessStdUser" finished-at="2021-08-22T01:12:19 PDT" duration-ms="1730" status="PASS">
+        <test-method signature="LoginSuccessStdUser()[pri:0, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T13:57:47 PDT" name="LoginSuccessStdUser" finished-at="2021-08-22T13:57:49 PDT" duration-ms="1897" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginSuccess_20210822011218.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginSuccess_20210822011218.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginSuccess_20210822135748.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginSuccess_20210822135748.png' height='100' width='100'/> </a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- LoginSuccessStdUser -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T01:12:19 PDT" name="closeBrowser" finished-at="2021-08-22T01:12:20 PDT" duration-ms="1271" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T13:57:49 PDT" name="closeBrowser" finished-at="2021-08-22T13:57:50 PDT" duration-ms="1425" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T01:12:20 PDT" name="setup" finished-at="2021-08-22T01:12:26 PDT" duration-ms="6255" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T13:57:50 PDT" name="setup" finished-at="2021-08-22T13:57:56 PDT" duration-ms="5683" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -220,18 +220,18 @@ at java.base/java.lang.Thread.run(Thread.java:831)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginLockedOutUser()[pri:1, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T01:12:26 PDT" name="loginLockedOutUser" finished-at="2021-08-22T01:12:27 PDT" duration-ms="1092" status="PASS">
+        <test-method signature="loginLockedOutUser()[pri:1, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T13:57:56 PDT" name="loginLockedOutUser" finished-at="2021-08-22T13:57:57 PDT" duration-ms="1119" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\loginLockedOutUser_20210822011227.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\loginLockedOutUser_20210822011227.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\loginLockedOutUser_20210822135757.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\loginLockedOutUser_20210822135757.png' height='100' width='100'/> </a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- loginLockedOutUser -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T01:12:27 PDT" name="closeBrowser" finished-at="2021-08-22T01:12:29 PDT" duration-ms="1410" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T13:57:57 PDT" name="closeBrowser" finished-at="2021-08-22T13:57:58 PDT" duration-ms="977" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T01:12:29 PDT" name="setup" finished-at="2021-08-22T01:12:35 PDT" duration-ms="6192" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T13:57:58 PDT" name="setup" finished-at="2021-08-22T13:58:03 PDT" duration-ms="5611" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -242,7 +242,7 @@ at java.base/java.lang.Thread.run(Thread.java:831)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginPerformanceGlitch()[pri:2, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T01:12:35 PDT" name="loginPerformanceGlitch" finished-at="2021-08-22T01:12:41 PDT" duration-ms="6151" status="FAIL">
+        <test-method signature="loginPerformanceGlitch()[pri:2, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T13:58:03 PDT" name="loginPerformanceGlitch" finished-at="2021-08-22T13:58:09 PDT" duration-ms="5932" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[Performance Issue - Page Load Time should be less than 50 milliseconds expected [true] but found [false]]]>
@@ -281,15 +281,15 @@ at java.base/java.lang.Thread.run(Thread.java:831)
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\failure_20210822011241.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\failure_20210822011241.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\failure_20210822135809.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\failure_20210822135809.png' height='100' width='100'/> </a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- loginPerformanceGlitch -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T01:12:42 PDT" name="closeBrowser" finished-at="2021-08-22T01:12:43 PDT" duration-ms="1418" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T13:58:10 PDT" name="closeBrowser" finished-at="2021-08-22T13:58:11 PDT" duration-ms="1219" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T01:12:43 PDT" name="setup" finished-at="2021-08-22T01:12:49 PDT" duration-ms="6298" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T13:58:11 PDT" name="setup" finished-at="2021-08-22T13:58:16 PDT" duration-ms="5116" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -300,18 +300,18 @@ at java.base/java.lang.Thread.run(Thread.java:831)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="LoginIncorrectPassword()[pri:3, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T01:12:49 PDT" name="LoginIncorrectPassword" finished-at="2021-08-22T01:12:51 PDT" duration-ms="1728" status="PASS">
+        <test-method signature="LoginIncorrectPassword()[pri:3, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T13:58:16 PDT" name="LoginIncorrectPassword" finished-at="2021-08-22T13:58:17 PDT" duration-ms="1056" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginIncorrectPassword_20210822011251.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginIncorrectPassword_20210822011251.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginIncorrectPassword_20210822135817.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginIncorrectPassword_20210822135817.png' height='100' width='100'/> </a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- LoginIncorrectPassword -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T01:12:51 PDT" name="closeBrowser" finished-at="2021-08-22T01:12:53 PDT" duration-ms="1543" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T13:58:17 PDT" name="closeBrowser" finished-at="2021-08-22T13:58:18 PDT" duration-ms="964" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T01:12:53 PDT" name="setup" finished-at="2021-08-22T01:12:58 PDT" duration-ms="5392" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T13:58:18 PDT" name="setup" finished-at="2021-08-22T13:58:24 PDT" duration-ms="5662" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -322,14 +322,14 @@ at java.base/java.lang.Thread.run(Thread.java:831)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="LoginMandatoryField()[pri:4, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T01:12:58 PDT" name="LoginMandatoryField" finished-at="2021-08-22T01:12:59 PDT" duration-ms="1157" status="PASS">
+        <test-method signature="LoginMandatoryField()[pri:4, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T13:58:24 PDT" name="LoginMandatoryField" finished-at="2021-08-22T13:58:25 PDT" duration-ms="981" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginMandatoryField_20210822011259.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumBasic\screenshot\LoginMandatoryField_20210822011259.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginMandatoryField_20210822135825.png'> <img src='C:\Users\MauPatel\eclipse-workspace\SeleniumAutomation\screenshot\LoginMandatoryField_20210822135825.png' height='100' width='100'/> </a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- LoginMandatoryField -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T01:12:59 PDT" name="closeBrowser" finished-at="2021-08-22T01:13:01 PDT" duration-ms="1354" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:logintest.Loginfeature@123ef382]" started-at="2021-08-22T13:58:25 PDT" name="closeBrowser" finished-at="2021-08-22T13:58:26 PDT" duration-ms="996" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
